@@ -9,10 +9,11 @@ Pequeno módulo com funções matemáticas para exemplificar o ciclo de desenvol
 Cada participante deverá:
 
 1. Clonar este repositório usando o GitHub Desktop.
-2. Criar uma nova *branch* com seu nome ou funcionalidade.
-3. Adicionar ou modificar funções neste módulo.
-4. Fazer *commit* das alterações e mesclar com a branch `main`.
-5. Criar um Pull Request no GitHub para sugerir as mudanças.
+2. Criar um novo *branch*.
+3. Adicionar ou modificar funções e recursos.
+4. Fazer *commit* das alterações.
+5. Fazer um *merge* com o branch `master`
+6. Criar um Pull Request no GitHub para sugerir as mudanças realizadas.
 
 ### Sugestões de funções
 
