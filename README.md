@@ -12,7 +12,7 @@ Cada participante deverá:
 2. Criar um novo *branch*.
 3. Adicionar ou modificar funções e recursos.
 4. Fazer *commit* das alterações.
-5. Fazer um *merge* com o branch `master`
+5. Publicar o branch para o GitHub
 6. Criar um Pull Request no GitHub para sugerir as mudanças realizadas.
 
 ### Sugestões de funções
