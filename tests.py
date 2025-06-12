@@ -16,4 +16,3 @@ def test_is_int():
     assert is_int("1") == False
     assert is_int((2)) == False
     assert is_int((2,3)) == False
-

@@ -6,6 +6,19 @@ def cubo(n):
 
 def is_int(n):
     return type(n)==int
+    
+def divide2(n):
+    return n/2
+    
+def parimpar(n):
+    if (n%2 == 0):
+        return 0
+    else: 
+        return 1
+
+def obtern(n)
+    return n
+    
 
 def soma_dois_mil(n):
     return n+2000
