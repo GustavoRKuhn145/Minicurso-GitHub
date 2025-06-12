@@ -19,3 +19,4 @@ def test_is_int():
 
 def test_raiz_quadrada():
     assert raiz_quadrada(4) == 2
+
