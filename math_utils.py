@@ -6,3 +6,13 @@ def cubo(n):
 
 def is_int(n):
     return type(n)==int
+
+def soma_dois_mil(n):
+    return n+2000
+
+def soma_tres_mil(n):
+    return n+3000
+
+def substitui_por_3(n):
+    n = 3
+    return n
