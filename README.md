@@ -30,3 +30,11 @@ Cada participante deverá:
 Módulo de testes para as funções do módulo math_utils.py
 
 Caso implementada alguma função `math_func`, implementar também a função de teste `test_math_func` nesse módulo
+
+## LISTA DE CHAMADA
+ MANUELA
+ MAIKEL
+ ADRIAN
+ DEIVID
+ FEFEL
+ IGUINHO
