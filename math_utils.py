@@ -1,5 +1,8 @@
 def quadrado(n):
     return n*n
+    
+ def triplo(n):
+    return n*n*n
 
 def cubo(n):
     return n*n*n
