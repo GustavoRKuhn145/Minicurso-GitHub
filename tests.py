@@ -3,7 +3,11 @@ from math_utils import *
 def test_quadrado():
     assert quadrado(2) == 4
     assert quadrado(-3) == 9
-    
+
+def test_triplo():
+    assert triplo(3) == 8
+
+
 def test_cubo():
     assert cubo(2) == 8
     assert cubo(-3) == -27
