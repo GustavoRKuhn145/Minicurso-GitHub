@@ -6,3 +6,9 @@ def cubo(n):
 
 def is_int(n):
     return type(n)==int
+
+def raiz_quadrada(n):
+    return sqrt(n)
+
+def pow_int(n, p):
+    return n^p
